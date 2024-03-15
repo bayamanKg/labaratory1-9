@@ -1,0 +1,30 @@
+@media (max-width: 780px) {
+  .header {
+    display: block;
+    padding: 20px;
+  }
+  .header-title {
+    padding-bottom: 10px;
+    font-size: 27px;
+  }
+  .title {
+    font-size: 25px;
+  }
+
+  .tema {
+    font-size: 20px;
+  }
+  .blog-table {
+    overflow: scroll;
+  }
+  td {
+    font-size: 15px;
+  }
+
+  .blog-form {
+    text-align: center;
+  }
+  .header-student h2 {
+    font-size: 16px;
+  }
+}
